@@ -1,174 +1,133 @@
-<h1 align="center">
-    <a href="https://sylius.com/github-readme/link/" target="_blank">
-        <img src="https://sylius.com/assets/github-readme.png?course" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="user-content-----------------" class="anchor" aria-hidden="true" tabindex="-1" href="#----------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+    <a href="https://sylius.com/github-readme/link/" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/2550be9cb871361c10f2c45088d19e0f46677844e99fbaf38b878e1a2c614aba/68747470733a2f2f73796c6975732e636f6d2f6173736574732f6769746875622d726561646d652e706e673f636f75727365" data-canonical-src="https://sylius.com/assets/github-readme.png?course" style="max-width: 100%;">
     </a>
 </h1>
-
-Sylius is an Open Source eCommerce framework on top of [**Symfony**](https://symfony.com). 
-
-The highest quality of code, strong testing culture, built-in Agile (BDD) workflow and exceptional flexibility make it the best solution for applications tailored to your business requirements. 
-Powerful REST API allows for easy integrations and creating unique customer experience on any device.
-
-We're using full-stack Behavior-Driven-Development, with [phpspec](https://phpspec.net) and [Behat](https://behat.org).
-
-Enjoy being an eCommerce Developer again!
-
-<img src="https://sylius.com/assets/readme/readme-main.png" />
-
-⚙️ Installation
---------------
-
-[Install Sylius](https://docs.sylius.com/en/latest/book/installation/installation.html) with Composer (see [requirements details](https://docs.sylius.com/en/latest/book/installation/requirements.html)).
-
-Follow the [Getting started with Sylius tutorial](https://docs.sylius.com/en/latest/getting-started-with-sylius/index.html)!
-
-📖 Documentation
-----------------
- 
-Documentation is available at [docs.sylius.com](https://docs.sylius.com).
-
-🤝 Community
-------------
-
-Get Sylius support on [Slack](https://sylius.com/slack), [Forum](https://forum.sylius.com/) or [Stack Overflow](https://stackoverflow.com/questions/tagged/sylius).
-
-Stay updated by following our [Twitter](https://twitter.com/Sylius) and [Facebook](https://www.facebook.com/SyliusEcommerce/).
-
-Would like to help us and build the most developer-friendly eCommerce framework? Start from reading our [Contributing Guide](https://docs.sylius.com/en/latest/book/index.html#contributing)!
-
-👮 Security issues
-------------------
-
-If you think that you have found a security issue in Sylius, please do not use the issue tracker and do not post it publicly. 
-Instead, all security issues must be sent to `security@sylius.com`.
-
-📦 Plugins and Extensions: Sylius Store
----------------------------------------
-
-<a href="https://store.sylius.com/" target="_blank">
-    <img src="https://sylius.com/assets/readme/readme-store.png" />
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sylius 是一个基于</font></font><a href="https://symfony.com" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Symfony</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的开源电子商务框架。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最高质量的代码、强大的测试文化、内置敏捷 (BDD) 工作流程和卓越的灵活性使其成为根据您的业务需求量身定制的应用程序的最佳解决方案。</font><font style="vertical-align: inherit;">强大的 REST API 可以轻松集成并在任何设备上创建独特的客户体验。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用全栈行为驱动开发，以及</font></font><a href="https://phpspec.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">phpspec</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://behat.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Behat</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">再次享受成为电子商务开发人员的乐趣！</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c2ec3b56172c7eb604b45c01ff5f749444308189b98f819f621952858a2e98a/68747470733a2f2f73796c6975732e636f6d2f6173736574732f726561646d652f726561646d652d6d61696e2e706e67"><img src="https://camo.githubusercontent.com/4c2ec3b56172c7eb604b45c01ff5f749444308189b98f819f621952858a2e98a/68747470733a2f2f73796c6975732e636f6d2f6173736574732f726561646d652f726561646d652d6d61696e2e706e67" data-canonical-src="https://sylius.com/assets/readme/readme-main.png" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#️-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚙️安装</font></font></h2>
+<p dir="auto"><a href="https://docs.sylius.com/en/latest/book/installation/installation.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装带有 Composer 的 Sylius</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（请参阅</font></font><a href="https://docs.sylius.com/en/latest/book/installation/requirements.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求详细信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请遵循</font></font><a href="https://docs.sylius.com/en/latest/getting-started-with-sylius/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sylius 入门教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档可在</font></font><a href="https://docs.sylius.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.sylius.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上获取。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--community" class="anchor" aria-hidden="true" tabindex="-1" href="#-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤝 社区</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://sylius.com/slack" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Slack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://forum.sylius.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Forum</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://stackoverflow.com/questions/tagged/sylius" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stack Overflow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上获取 Sylius 支持</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关注我们的</font></font><a href="https://twitter.com/Sylius" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://www.facebook.com/SyliusEcommerce/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Facebook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ，随时了解最新动态。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想要帮助我们构建最对开发人员友好的电子商务框架吗？</font></font><a href="https://docs.sylius.com/en/latest/book/index.html#contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从阅读我们的贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始</font><font style="vertical-align: inherit;">！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--security-issues" class="anchor" aria-hidden="true" tabindex="-1" href="#-security-issues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👮 安全问题</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您认为在 Sylius 中发现了安全问题，请不要使用问题跟踪器，也不要公开发布。</font><font style="vertical-align: inherit;">相反，所有安全问题都必须发送至</font></font><code>security@sylius.com</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--plugins-and-extensions-sylius-store" class="anchor" aria-hidden="true" tabindex="-1" href="#-plugins-and-extensions-sylius-store"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📦 插件和扩展：Sylius Store</font></font></h2>
+<a href="https://store.sylius.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8a087ad36d08a37a5e20b77709a4ec7ad5205cf992ecfb102a9cf7df9a8c9ebe/68747470733a2f2f73796c6975732e636f6d2f6173736574732f726561646d652f726561646d652d73746f72652e706e67" data-canonical-src="https://sylius.com/assets/readme/readme-store.png" style="max-width: 100%;">
 </a>
-   
-You can find Sylius plugins on [our Sylius Store](https://sylius.com/plugins/) which is a Marketplace with Sylius extensions. 
-
-Or search for [packages marked as *sylius-plugin*](https://packagist.org/explore/?type=sylius-plugin) on Packagist.
-
-➕ Sylius Plus
---------------
-
-<a href="https://sylius.com/plus/" target="_blank">
-    <img src="https://sylius.com/assets/readme/readme-plus.png" />
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://sylius.com/plugins/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在我们的 Sylius 商店</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到 Sylius 插件</font><font style="vertical-align: inherit;">，该商店是一个包含 Sylius 扩展的市场。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者在 Packagist 上搜索</font></font><a href="https://packagist.org/explore/?type=sylius-plugin" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标记为</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sylius-plugin 的</font></font></em></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件包。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--sylius-plus" class="anchor" aria-hidden="true" tabindex="-1" href="#-sylius-plus"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">➕ 西利斯加</font></font></h2>
+<a href="https://sylius.com/plus/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/2828e831cf8a0188751c5a132857ca1bd9cca1b8f4579487fe98b9bfc8363c77/68747470733a2f2f73796c6975732e636f6d2f6173736574732f726561646d652f726561646d652d706c75732e706e67" data-canonical-src="https://sylius.com/assets/readme/readme-plus.png" style="max-width: 100%;">
 </a>
-
-Sylius Plus gives you all the power of Open Source and much more. It comes with the following set of enterprise-grade features:
-
-- Advanced Multi-store
-- Returns Management
-- Multi-source Inventory
-- Advanced Users Permissions
-- Partial Order Fulfillment
-- Loyalty
-
-What is more, Sylius Plus means SLA-backed support and Project Success Assistance from its creators. [Learn more.](https://sylius.com/plus/)
-
-📃 License
-----------
-
-Sylius is completely free and released under the [MIT License](https://github.com/Sylius/Sylius/blob/master/LICENSE).
-
-✍️ Authors
----------
-
-Sylius was originally created by [Paweł Jędrzejewski](https://pjedrzejewski.com).
-
-Kudos to all Sylius contributors 🙏
-
-[![](https://github.com/pamil.png?size=40)](https://github.com/pamil)
-[![](https://github.com/pjedrzejewski.png?size=40)](https://github.com/pjedrzejewski)
-[![](https://github.com/Zales0123.png?size=40)](https://github.com/Zales0123)
-[![](https://github.com/GSadee.png?size=40)](https://github.com/GSadee)
-[![](https://github.com/lchrusciel.png?size=40)](https://github.com/lchrusciel)
-[![](https://github.com/CoderMaggie.png?size=40)](https://github.com/CoderMaggie)
-[![](https://github.com/Arminek.png?size=40)](https://github.com/Arminek)
-[![](https://github.com/tuka217.png?size=40)](https://github.com/tuka217)
-[![](https://github.com/NoResponseMate.png?size=40)](https://github.com/NoResponseMate)
-[![](https://github.com/stloyd.png?size=40)](https://github.com/stloyd)
-[![](https://github.com/umpirsky.png?size=40)](https://github.com/umpirsky)
-[![](https://github.com/winzou.png?size=40)](https://github.com/winzou)
-[![](https://github.com/Tomanhez.png?size=40)](https://github.com/Tomanhez)
-[![](https://github.com/michalmarcinkowski.png?size=40)](https://github.com/michalmarcinkowski)
-[![](https://github.com/AdamKasp.png?size=40)](https://github.com/AdamKasp)
-[![](https://github.com/arnolanglade.png?size=40)](https://github.com/arnolanglade)
-[![](https://github.com/jjanvier.png?size=40)](https://github.com/jjanvier)
-[![](https://github.com/kayue.png?size=40)](https://github.com/kayue)
-[![](https://github.com/stefandoorn.png?size=40)](https://github.com/stefandoorn)
-[![](https://github.com/piotrantosik.png?size=40)](https://github.com/piotrantosik)
-[![](https://github.com/Richtermeister.png?size=40)](https://github.com/Richtermeister)
-[![](https://github.com/kulczy.png?size=40)](https://github.com/kulczy)
-[![](https://github.com/koemeet.png?size=40)](https://github.com/koemeet)
-[![](https://github.com/oallain.png?size=40)](https://github.com/oallain)
-[![](https://github.com/loic425.png?size=40)](https://github.com/loic425)
-[![](https://github.com/bendavies.png?size=40)](https://github.com/bendavies)
-[![](https://github.com/aramalipoor.png?size=40)](https://github.com/aramalipoor)
-[![](https://github.com/amenophis.png?size=40)](https://github.com/amenophis)
-[![](https://github.com/loicmobizel.png?size=40)](https://github.com/loicmobizel)
-[![](https://github.com/mamazu.png?size=40)](https://github.com/mamazu)
-[![](https://github.com/loevgaard.png?size=40)](https://github.com/loevgaard)
-[![](https://github.com/makasim.png?size=40)](https://github.com/makasim)
-[![](https://github.com/gperdomor.png?size=40)](https://github.com/gperdomor)
-[![](https://github.com/arti0090.png?size=40)](https://github.com/arti0090)
-[![](https://github.com/liverbool.png?size=40)](https://github.com/liverbool)
-[![](https://github.com/mmenozzi.png?size=40)](https://github.com/mmenozzi)
-[![](https://github.com/psyray.png?size=40)](https://github.com/psyray)
-[![](https://github.com/mbabker.png?size=40)](https://github.com/mbabker)
-[![](https://github.com/peteward.png?size=40)](https://github.com/peteward)
-[![](https://github.com/adamelso.png?size=40)](https://github.com/adamelso)
-[![](https://github.com/igormukhingmailcom.png?size=40)](https://github.com/igormukhingmailcom)
-[![](https://github.com/antonioperic.png?size=40)](https://github.com/antonioperic)
-[![](https://github.com/elliot.png?size=40)](https://github.com/elliot)
-[![](https://github.com/agounaris.png?size=40)](https://github.com/agounaris)
-[![](https://github.com/Prometee.png?size=40)](https://github.com/Prometee)
-[![](https://github.com/l3l0.png?size=40)](https://github.com/l3l0)
-[![](https://github.com/inssein.png?size=40)](https://github.com/inssein)
-[![](https://github.com/loevstroem.png?size=40)](https://github.com/loevstroem)
-[![](https://github.com/pborreli.png?size=40)](https://github.com/pborreli)
-[![](https://github.com/gorkalaucirica.png?size=40)](https://github.com/gorkalaucirica)
-[![](https://github.com/gabiudrescu.png?size=40)](https://github.com/gabiudrescu)
-[![](https://github.com/cordoval.png?size=40)](https://github.com/cordoval)
-[![](https://github.com/EmiiKhaos.png?size=40)](https://github.com/EmiiKhaos)
-[![](https://github.com/venyii.png?size=40)](https://github.com/venyii)
-[![](https://github.com/nakashu.png?size=40)](https://github.com/nakashu)
-[![](https://github.com/LucaGallinari.png?size=40)](https://github.com/LucaGallinari)
-[![](https://github.com/vvasiloi.png?size=40)](https://github.com/vvasiloi)
-[![](https://github.com/teohhanhui.png?size=40)](https://github.com/teohhanhui)
-[![](https://github.com/jacquesbh.png?size=40)](https://github.com/jacquesbh)
-[![](https://github.com/diimpp.png?size=40)](https://github.com/diimpp)
-[![](https://github.com/sweoggy.png?size=40)](https://github.com/sweoggy)
-[![](https://github.com/bartoszpietrzak1994.png?size=40)](https://github.com/bartoszpietrzak1994)
-[![](https://github.com/psihius.png?size=40)](https://github.com/psihius)
-[![](https://github.com/okwinza.png?size=40)](https://github.com/okwinza)
-[![](https://github.com/bitbager.png?size=40)](https://github.com/bitbager)
-[![](https://github.com/alcaeus.png?size=40)](https://github.com/alcaeus)
-[![](https://github.com/ahmadrabie.png?size=40)](https://github.com/ahmadrabie)
-[![](https://github.com/coudenysj.png?size=40)](https://github.com/coudenysj)
-[![](https://github.com/mykehsd.png?size=40)](https://github.com/mykehsd)
-[![](https://github.com/gonzalovilaseca.png?size=40)](https://github.com/gonzalovilaseca)
-[![](https://github.com/4c0n.png?size=40)](https://github.com/4c0n)
-[![](https://github.com/tvlooy.png?size=40)](https://github.com/tvlooy)
-[![](https://github.com/dantleech.png?size=40)](https://github.com/dantleech)
-[![](https://github.com/cdaguerre.png?size=40)](https://github.com/cdaguerre)
-[![](https://github.com/Strontium-90.png?size=40)](https://github.com/Strontium-90)
-[![](https://github.com/JaisDK.png?size=40)](https://github.com/JaisDK)
-[![](https://github.com/pix-art.png?size=40)](https://github.com/pix-art)
-[![](https://github.com/dunglas.png?size=40)](https://github.com/dunglas)
-[![](https://github.com/SirDomin.png?size=40)](https://github.com/SirDomin)
-[![](https://github.com/peterukena.png?size=40)](https://github.com/peterukena)
-[![](https://github.com/tchapi.png?size=40)](https://github.com/tchapi)
-[![](https://github.com/laurent35240.png?size=40)](https://github.com/laurent35240)
-[![](https://github.com/jdeveloper.png?size=40)](https://github.com/jdeveloper)
-[![](https://github.com/TomasVotruba.png?size=40)](https://github.com/TomasVotruba)
-
-... and others!
-
-
-See the full list of [contributors from our awesome community](https://github.com/Sylius/Sylius/contributors).
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sylius Plus 为您提供开源的所有功能以及更多功能。</font><font style="vertical-align: inherit;">它具有以下一组企业级功能：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级多店</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">退货管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多源库存</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级用户权限</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分订单履行</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忠诚</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此外，Sylius Plus 意味着来自其创建者的 SLA 支持和项目成功协助。</font></font><a href="https://sylius.com/plus/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多。</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--license" class="anchor" aria-hidden="true" tabindex="-1" href="#-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📃 许可证</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/Sylius/Sylius/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sylius 是完全免费的，并根据MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-authors" class="anchor" aria-hidden="true" tabindex="-1" href="#️-authors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✍️ 作者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://pjedrzejewski.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sylius 最初由Paweł Jędrzejewski</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向所有 Sylius 贡献者致敬🙏</font></font></p>
+<p dir="auto"><a href="https://github.com/pamil"><img src="https://github.com/pamil.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/pjedrzejewski"><img src="https://github.com/pjedrzejewski.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Zales0123"><img src="https://github.com/Zales0123.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/GSadee"><img src="https://github.com/GSadee.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/lchrusciel"><img src="https://github.com/lchrusciel.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/CoderMaggie"><img src="https://github.com/CoderMaggie.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Arminek"><img src="https://github.com/Arminek.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/tuka217"><img src="https://github.com/tuka217.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/NoResponseMate"><img src="https://github.com/NoResponseMate.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/stloyd"><img src="https://github.com/stloyd.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/umpirsky"><img src="https://github.com/umpirsky.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/winzou"><img src="https://github.com/winzou.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Tomanhez"><img src="https://github.com/Tomanhez.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/michalmarcinkowski"><img src="https://github.com/michalmarcinkowski.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/AdamKasp"><img src="https://github.com/AdamKasp.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/arnolanglade"><img src="https://github.com/arnolanglade.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/jjanvier"><img src="https://github.com/jjanvier.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/kayue"><img src="https://github.com/kayue.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/stefandoorn"><img src="https://github.com/stefandoorn.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/piotrantosik"><img src="https://github.com/piotrantosik.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Richtermeister"><img src="https://github.com/Richtermeister.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/kulczy"><img src="https://github.com/kulczy.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/koemeet"><img src="https://github.com/koemeet.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/oallain"><img src="https://github.com/oallain.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/loic425"><img src="https://github.com/loic425.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/bendavies"><img src="https://github.com/bendavies.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/aramalipoor"><img src="https://github.com/aramalipoor.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/amenophis"><img src="https://github.com/amenophis.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/loicmobizel"><img src="https://github.com/loicmobizel.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/mamazu"><img src="https://github.com/mamazu.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/loevgaard"><img src="https://github.com/loevgaard.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/makasim"><img src="https://github.com/makasim.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/gperdomor"><img src="https://github.com/gperdomor.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/arti0090"><img src="https://github.com/arti0090.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/liverbool"><img src="https://github.com/liverbool.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/mmenozzi"><img src="https://github.com/mmenozzi.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/psyray"><img src="https://github.com/psyray.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/mbabker"><img src="https://github.com/mbabker.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/peteward"><img src="https://github.com/peteward.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/adamelso"><img src="https://github.com/adamelso.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/igormukhingmailcom"><img src="https://github.com/igormukhingmailcom.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/antonioperic"><img src="https://github.com/antonioperic.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/elliot"><img src="https://github.com/elliot.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/agounaris"><img src="https://github.com/agounaris.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Prometee"><img src="https://github.com/Prometee.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/l3l0"><img src="https://github.com/l3l0.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/inssein"><img src="https://github.com/inssein.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/loevstroem"><img src="https://github.com/loevstroem.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/pborreli"><img src="https://github.com/pborreli.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/gorkalaucirica"><img src="https://github.com/gorkalaucirica.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/gabiudrescu"><img src="https://github.com/gabiudrescu.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/cordoval"><img src="https://github.com/cordoval.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/EmiiKhaos"><img src="https://github.com/EmiiKhaos.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/venyii"><img src="https://github.com/venyii.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/nakashu"><img src="https://github.com/nakashu.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/LucaGallinari"><img src="https://github.com/LucaGallinari.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/vvasiloi"><img src="https://github.com/vvasiloi.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/teohhanhui"><img src="https://github.com/teohhanhui.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/jacquesbh"><img src="https://github.com/jacquesbh.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/diimpp"><img src="https://github.com/diimpp.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/sweoggy"><img src="https://github.com/sweoggy.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/bartoszpietrzak1994"><img src="https://github.com/bartoszpietrzak1994.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/psihius"><img src="https://github.com/psihius.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/okwinza"><img src="https://github.com/okwinza.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/bitbager"><img src="https://github.com/bitbager.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/alcaeus"><img src="https://github.com/alcaeus.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/ahmadrabie"><img src="https://github.com/ahmadrabie.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/coudenysj"><img src="https://github.com/coudenysj.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/mykehsd"><img src="https://github.com/mykehsd.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/gonzalovilaseca"><img src="https://github.com/gonzalovilaseca.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/4c0n"><img src="https://github.com/4c0n.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/tvlooy"><img src="https://github.com/tvlooy.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/dantleech"><img src="https://github.com/dantleech.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/cdaguerre"><img src="https://github.com/cdaguerre.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Strontium-90"><img src="https://github.com/Strontium-90.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/JaisDK"><img src="https://github.com/JaisDK.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/pix-art"><img src="https://github.com/pix-art.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/dunglas"><img src="https://github.com/dunglas.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/SirDomin"><img src="https://github.com/SirDomin.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/peterukena"><img src="https://github.com/peterukena.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/tchapi"><img src="https://github.com/tchapi.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/laurent35240"><img src="https://github.com/laurent35240.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/jdeveloper"><img src="https://github.com/jdeveloper.png?size=40" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/TomasVotruba"><img src="https://github.com/TomasVotruba.png?size=40" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... 和别的！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/Sylius/Sylius/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看来自我们出色的社区的贡献者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的完整列表</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
